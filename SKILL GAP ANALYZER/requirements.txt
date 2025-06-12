@@ -1,0 +1,13 @@
+faiss-cpu
+numpy
+sentence_transformers
+langchain
+langchain_google_genai
+dotenv
+langchain_groq
+torch
+transformers
+huggingface_hub
+torch
+langchain_community
+accelerate>=0.26.0  
